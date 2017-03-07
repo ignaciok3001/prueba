@@ -2,6 +2,8 @@
 
 void main(void)
 {
-	printfile('Hola mundo');
+	printf('Hola mundo');
+	printf('Bienvenido a la aplicacion');
+	
 }
 
